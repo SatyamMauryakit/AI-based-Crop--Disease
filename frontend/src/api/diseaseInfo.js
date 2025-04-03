@@ -1,6 +1,6 @@
 export const fetchDiseaseInfoFromAPI = async (disease) => {
     try {
-      const response = await fetch("http://localhost:5000/get-disease-info", {
+      const response = await fetch("https://ai-based-crop-disease.onrender.com/get-disease-info", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ disease }),
