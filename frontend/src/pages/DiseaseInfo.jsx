@@ -3,7 +3,7 @@ import axios from "axios";
 import { FaSearch, FaChevronLeft, FaChevronRight, FaLeaf } from "react-icons/fa";
 import { motion, AnimatePresence } from "framer-motion";
 
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://ai-based-crop-disease.onrender.com";
 
 
 const SEARCH_IMAGES = {
