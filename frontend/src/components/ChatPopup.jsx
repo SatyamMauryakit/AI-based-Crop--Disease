@@ -24,7 +24,7 @@ const ChatPopup = ({ onClose }) => {
     setIsTyping(true);
 
     try {
-      const response = await fetch("https://ai-based-crop-disease.onrender.com", {
+      const response = await fetch("https://ai-based-crop-disease.onrender.com/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: input }),
