@@ -83,7 +83,8 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 📧 **Satyam Maurya**  
 GitHub: [SatyamMauryakit](https://github.com/SatyamMauryakit)  
-LinkedIn: *(Add your LinkedIn profile link)*  
+LinkedIn:linkedin.com/in/thesatyammaurya
+
 
 ---
 **⭐ If you like this project, give it a star!**
