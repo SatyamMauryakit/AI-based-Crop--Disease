@@ -16,7 +16,6 @@ The **AI-Based Crop Disease Detection** system leverages machine learning and de
 - **Backend:** Node.js, Express.js
 - **Machine Learning Model:** TensorFlow / PyTorch
 - **Database:** MongoDB
-- **Cloud & Deployment:** AWS / Firebase
 
 ## 🚀 Installation & Setup
 
